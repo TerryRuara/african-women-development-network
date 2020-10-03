@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f95e8526-1f6a-4aac-9ac9-89511c17dd83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/african-women-development-network.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon-temp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/causes.html" beforeDir="false" afterPath="$PROJECT_DIR$/causes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-causes.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-causes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1iGVCBcm9dWHfNC3RbYoVAYHsse" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ziwani-wifi-laravel" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f95e8526-1f6a-4aac-9ac9-89511c17dd83" name="Default Changelist" comment="" />
+      <created>1601533785478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601533785478</updated>
+      <workItem from="1601533786539" duration="7320000" />
+      <workItem from="1601578039127" duration="600000" />
+      <workItem from="1601629557043" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="23" width="828" height="684" key="#CLI_Interpreters" timestamp="1601539195355">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="277" y="23" width="828" height="684" key="#CLI_Interpreters/0.0.1366.731@0.0.1366.731" timestamp="1601539195355" />
+    <state x="377" y="0" width="634" height="731" key="#PHP" timestamp="1601539253399">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="377" y="0" width="634" height="731" key="#PHP/0.0.1366.731@0.0.1366.731" timestamp="1601539253399" />
+    <state x="261" y="14" width="836" height="704" key="#SSH_Configurations" timestamp="1601537389990">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="261" y="14" width="836" height="704" key="#SSH_Configurations/0.0.1366.731@0.0.1366.731" timestamp="1601537389990" />
+    <state x="466" y="124" width="428" height="484" key="FileChooserDialogImpl" timestamp="1601629633828">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="466" y="124" width="428" height="484" key="FileChooserDialogImpl/0.0.1366.731@0.0.1366.731" timestamp="1601629633828" />
+    <state x="500" y="288" width="359" height="157" key="NewPhpFileDialog" timestamp="1601539990856">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="500" y="288" width="359" height="157" key="NewPhpFileDialog/0.0.1366.731@0.0.1366.731" timestamp="1601539990856" />
+    <state x="179" y="1" key="SettingsEditor" timestamp="1601537415305">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="179" y="1" key="SettingsEditor/0.0.1366.731@0.0.1366.731" timestamp="1601537415305" />
+    <state x="584" y="18" key="ftp.server.browser" timestamp="1601537412289">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="584" y="18" key="ftp.server.browser/0.0.1366.731@0.0.1366.731" timestamp="1601537412289" />
+  </component>
+</project>

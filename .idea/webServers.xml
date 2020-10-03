@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b40270a0-a55b-426c-b751-6351adbab5ee" name="African Women Development Network">
+        <fileTransfer rootFolder="/home/africa18" accessType="SFTP" host="149.202.195.78" port="1624" sshConfigId="57fb8058-43a6-496f-8623-7739e153f5da" sshConfig="africa18@149.202.195.78:1624 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
